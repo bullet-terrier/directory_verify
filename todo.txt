@@ -1,0 +1,1 @@
+add in support for recursivly hashing directories - and mapping their paths relative to the initial directory.
